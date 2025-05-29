@@ -1,0 +1,12 @@
+C:\Users\SLOWY\source\repos\TestTask_aton\TestTask_aton.Core\bin\Debug\net9.0\TestTask_aton.Core.deps.json
+C:\Users\SLOWY\source\repos\TestTask_aton\TestTask_aton.Core\bin\Debug\net9.0\TestTask_aton.Core.dll
+C:\Users\SLOWY\source\repos\TestTask_aton\TestTask_aton.Core\bin\Debug\net9.0\TestTask_aton.Core.pdb
+C:\Users\SLOWY\source\repos\TestTask_aton\TestTask_aton.Core\obj\Debug\net9.0\TestTask_aton.Core.csproj.AssemblyReference.cache
+C:\Users\SLOWY\source\repos\TestTask_aton\TestTask_aton.Core\obj\Debug\net9.0\TestTask_aton.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SLOWY\source\repos\TestTask_aton\TestTask_aton.Core\obj\Debug\net9.0\TestTask_aton.Core.AssemblyInfoInputs.cache
+C:\Users\SLOWY\source\repos\TestTask_aton\TestTask_aton.Core\obj\Debug\net9.0\TestTask_aton.Core.AssemblyInfo.cs
+C:\Users\SLOWY\source\repos\TestTask_aton\TestTask_aton.Core\obj\Debug\net9.0\TestTask_aton.Core.csproj.CoreCompileInputs.cache
+C:\Users\SLOWY\source\repos\TestTask_aton\TestTask_aton.Core\obj\Debug\net9.0\TestTask_aton.Core.dll
+C:\Users\SLOWY\source\repos\TestTask_aton\TestTask_aton.Core\obj\Debug\net9.0\refint\TestTask_aton.Core.dll
+C:\Users\SLOWY\source\repos\TestTask_aton\TestTask_aton.Core\obj\Debug\net9.0\TestTask_aton.Core.pdb
+C:\Users\SLOWY\source\repos\TestTask_aton\TestTask_aton.Core\obj\Debug\net9.0\ref\TestTask_aton.Core.dll
