@@ -29,31 +29,21 @@ namespace TestTask_aton.Application.Services
             string name,
             int gender,
             DateTime? birthDay,
-            bool isAdmin,
-            DateTime createdAt,
-            string createdBy,
-            DateTime modifiedAt,
-            string modifiedBy,
-            DateTime revokedAt,
-            string revokedBy)
+            DateTime? modifiedAt,
+            string modifiedBy)
         {
-            return await _usersRepository.Update(
+            return await _usersRepository.Update1(
                 id,
                 login,
                 password,
                 name,
                 gender,
                 birthDay,
-                isAdmin,
-                createdAt,
-                createdBy,
                 modifiedAt,
-                modifiedBy,
-                revokedAt,
-                revokedBy);
+                modifiedBy);
         }
 
-        public async Task<Guid> HardDeleteBook(Guid id)
+        public async Task<Guid> HardDelete(Guid id)
         {
             return await _usersRepository.HardDelete(id);
         }

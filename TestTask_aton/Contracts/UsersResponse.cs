@@ -10,9 +10,9 @@
         bool IsAdmin,
         DateTime CreatedAt,
         string CreatedBy,
-        DateTime ModifiedAt,
+        DateTime? ModifiedAt,
         string ModifiedBy,
-        DateTime RevokedAt,
+        DateTime? RevokedAt,
         string RevokedBy
     );
 }

@@ -10,3 +10,6 @@ C:\Users\SLOWY\source\repos\TestTask_aton\TestTask_aton.Core\obj\Debug\net9.0\Te
 C:\Users\SLOWY\source\repos\TestTask_aton\TestTask_aton.Core\obj\Debug\net9.0\refint\TestTask_aton.Core.dll
 C:\Users\SLOWY\source\repos\TestTask_aton\TestTask_aton.Core\obj\Debug\net9.0\TestTask_aton.Core.pdb
 C:\Users\SLOWY\source\repos\TestTask_aton\TestTask_aton.Core\obj\Debug\net9.0\ref\TestTask_aton.Core.dll
+C:\Users\SLOWY\source\repos\TestTask_aton\TestTask_aton.Core\bin\Debug\net9.0\TestTask_aton.Core.runtimeconfig.json
+C:\Users\SLOWY\source\repos\TestTask_aton\TestTask_aton.Core\obj\Debug\net9.0\TestTask_aton.Core.sourcelink.json
+C:\Users\SLOWY\source\repos\TestTask_aton\TestTask_aton.Core\obj\Debug\net9.0\TestTask_aton.Core.genruntimeconfig.cache

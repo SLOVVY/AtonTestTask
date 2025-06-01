@@ -65,20 +65,15 @@ namespace TestTask_aton.DataAccess.Repositories
             return userEntity.Id;
         }
 
-        public async Task<Guid> Update(
+        public async Task<Guid> Update1(
             Guid id,
             string login,
             string password,
             string name,
             int gender,
             DateTime? birthDay,
-            bool isAdmin,
-            DateTime createdAt,
-            string createdBy,
-            DateTime modifiedAt,
-            string modifiedBy,
-            DateTime revokedAt,
-            string revokedBy)
+            DateTime? modifiedAt,
+            string modifiedBy)
         {
             await _dbContext.Users
                 .Where(u => u.Id == id)
@@ -88,13 +83,8 @@ namespace TestTask_aton.DataAccess.Repositories
                 .SetProperty(u => u.Name, name)
                 .SetProperty(u => u.Gender, gender)
                 .SetProperty(u => u.BirthDay, birthDay)
-                .SetProperty(u => u.IsAdmin, isAdmin)
-                .SetProperty(u => u.CreatedAt, createdAt)
-                .SetProperty(u => u.CreatedBy, createdBy)
                 .SetProperty(u => u.ModifiedAt, modifiedAt)
                 .SetProperty(u => u.ModifiedBy, modifiedBy)
-                .SetProperty(u => u.RevokedAt, revokedAt)
-                .SetProperty(u => u.RevokeddBy, revokedBy)
                 );
 
             return id;

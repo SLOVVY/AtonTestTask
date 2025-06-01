@@ -11,11 +11,11 @@ namespace TestTask_aton.Core.Models
         public int Gender { get; } = 2;
         public DateTime? BirthDay { get; } = null;
         public bool IsAdmin { get; } = false;
-        public DateTime CreatedAt { get; }
+        public DateTime CreatedAt { get; } = DateTime.UtcNow;
         public string CreatedBy { get; } = string.Empty;
-        public DateTime ModifiedAt { get; }
+        public DateTime? ModifiedAt { get; } = null;
         public string ModifiedBy { get; } = string.Empty;
-        public DateTime RevokedAt { get; }
+        public DateTime? RevokedAt { get; } = null;
         public string RevokeddBy { get; } = string.Empty;
 
         private User (
@@ -28,9 +28,9 @@ namespace TestTask_aton.Core.Models
             bool isAdmin, 
             DateTime createdAt, 
             string createdBy, 
-            DateTime modifiedAt, 
+            DateTime? modifiedAt, 
             string modifiedBy, 
-            DateTime revokedAt, 
+            DateTime? revokedAt, 
             string revokeddBy)
         {
             Id = id;
@@ -72,9 +72,9 @@ namespace TestTask_aton.Core.Models
             bool isAdmin,
             DateTime createdAt,
             string createdBy,
-            DateTime modifiedAt,
+            DateTime? modifiedAt,
             string modifiedBy,
-            DateTime revokedAt,
+            DateTime? revokedAt,
             string revokedBy)
         {
             var error = string.Empty;

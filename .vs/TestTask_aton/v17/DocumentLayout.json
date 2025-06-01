@@ -3,52 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\SLOWY\\source\\repos\\TestTask_aton\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CFF64FDE-0945-4A44-8316-78DC10F95BE0}|TestTask_aton\\TestTask_aton.csproj|c:\\users\\slowy\\source\\repos\\testtask_aton\\testtask_aton\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{CFF64FDE-0945-4A44-8316-78DC10F95BE0}|TestTask_aton\\TestTask_aton.csproj|solutionrelative:testtask_aton\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CFF64FDE-0945-4A44-8316-78DC10F95BE0}|TestTask_aton\\TestTask_aton.csproj|c:\\users\\slowy\\source\\repos\\testtask_aton\\testtask_aton\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}",
-      "RelativeMoniker": "D:0:0:{CFF64FDE-0945-4A44-8316-78DC10F95BE0}|TestTask_aton\\TestTask_aton.csproj|solutionrelative:testtask_aton\\docker-compose.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CFF64FDE-0945-4A44-8316-78DC10F95BE0}|TestTask_aton\\TestTask_aton.csproj|c:\\users\\slowy\\source\\repos\\testtask_aton\\testtask_aton\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CFF64FDE-0945-4A44-8316-78DC10F95BE0}|TestTask_aton\\TestTask_aton.csproj|solutionrelative:testtask_aton\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CFF64FDE-0945-4A44-8316-78DC10F95BE0}|TestTask_aton\\TestTask_aton.csproj|c:\\users\\slowy\\source\\repos\\testtask_aton\\testtask_aton\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CFF64FDE-0945-4A44-8316-78DC10F95BE0}|TestTask_aton\\TestTask_aton.csproj|solutionrelative:testtask_aton\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CFF64FDE-0945-4A44-8316-78DC10F95BE0}|TestTask_aton\\TestTask_aton.csproj|c:\\users\\slowy\\source\\repos\\testtask_aton\\testtask_aton\\contracts\\usersrequestupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFF64FDE-0945-4A44-8316-78DC10F95BE0}|TestTask_aton\\TestTask_aton.csproj|solutionrelative:testtask_aton\\contracts\\usersrequestupdate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{88333919-3F80-4BFB-B834-68A5255039F6}|TestTask_aton.DataAccess\\TestTask_aton.DataAccess.csproj|c:\\users\\slowy\\source\\repos\\testtask_aton\\testtask_aton.dataaccess\\repositories\\usersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88333919-3F80-4BFB-B834-68A5255039F6}|TestTask_aton.DataAccess\\TestTask_aton.DataAccess.csproj|solutionrelative:testtask_aton.dataaccess\\repositories\\usersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{CFF64FDE-0945-4A44-8316-78DC10F95BE0}|TestTask_aton\\TestTask_aton.csproj|c:\\users\\slowy\\source\\repos\\testtask_aton\\testtask_aton\\contracts\\usersrequestcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFF64FDE-0945-4A44-8316-78DC10F95BE0}|TestTask_aton\\TestTask_aton.csproj|solutionrelative:testtask_aton\\contracts\\usersrequestcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{7F2D8114-FE64-4B4A-9133-56818C21BC4F}|TestTask_aton.Application\\TestTask_aton.Application.csproj|c:\\users\\slowy\\source\\repos\\testtask_aton\\testtask_aton.application\\services\\usersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7F2D8114-FE64-4B4A-9133-56818C21BC4F}|TestTask_aton.Application\\TestTask_aton.Application.csproj|solutionrelative:testtask_aton.application\\services\\usersservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CFF64FDE-0945-4A44-8316-78DC10F95BE0}|TestTask_aton\\TestTask_aton.csproj|c:\\users\\slowy\\source\\repos\\testtask_aton\\testtask_aton\\contracts\\usersresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CFF64FDE-0945-4A44-8316-78DC10F95BE0}|TestTask_aton\\TestTask_aton.csproj|solutionrelative:testtask_aton\\contracts\\usersresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{88333919-3F80-4BFB-B834-68A5255039F6}|TestTask_aton.DataAccess\\TestTask_aton.DataAccess.csproj|c:\\users\\slowy\\source\\repos\\testtask_aton\\testtask_aton.dataaccess\\configurations\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88333919-3F80-4BFB-B834-68A5255039F6}|TestTask_aton.DataAccess\\TestTask_aton.DataAccess.csproj|solutionrelative:testtask_aton.dataaccess\\configurations\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D91EAEE5-6885-4AC3-993C-85AE99A8BE8B}|TestTask_aton.Core\\TestTask_aton.Core.csproj|c:\\users\\slowy\\source\\repos\\testtask_aton\\testtask_aton.core\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D91EAEE5-6885-4AC3-993C-85AE99A8BE8B}|TestTask_aton.Core\\TestTask_aton.Core.csproj|solutionrelative:testtask_aton.core\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D91EAEE5-6885-4AC3-993C-85AE99A8BE8B}|TestTask_aton.Core\\TestTask_aton.Core.csproj|c:\\users\\slowy\\source\\repos\\testtask_aton\\testtask_aton.core\\abstractions\\iusersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D91EAEE5-6885-4AC3-993C-85AE99A8BE8B}|TestTask_aton.Core\\TestTask_aton.Core.csproj|solutionrelative:testtask_aton.core\\abstractions\\iusersrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{88333919-3F80-4BFB-B834-68A5255039F6}|TestTask_aton.DataAccess\\TestTask_aton.DataAccess.csproj|c:\\users\\slowy\\source\\repos\\testtask_aton\\testtask_aton.dataaccess\\entities\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88333919-3F80-4BFB-B834-68A5255039F6}|TestTask_aton.DataAccess\\TestTask_aton.DataAccess.csproj|solutionrelative:testtask_aton.dataaccess\\entities\\userentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{88333919-3F80-4BFB-B834-68A5255039F6}|TestTask_aton.DataAccess\\TestTask_aton.DataAccess.csproj|c:\\users\\slowy\\source\\repos\\testtask_aton\\testtask_aton.dataaccess\\usersdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{88333919-3F80-4BFB-B834-68A5255039F6}|TestTask_aton.DataAccess\\TestTask_aton.DataAccess.csproj|solutionrelative:testtask_aton.dataaccess\\usersdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -58,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -66,148 +34,55 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "appsettings.Development.json",
-              "DocumentMoniker": "C:\\Users\\SLOWY\\source\\repos\\TestTask_aton\\TestTask_aton\\appsettings.Development.json",
-              "RelativeDocumentMoniker": "TestTask_aton\\appsettings.Development.json",
-              "ToolTip": "C:\\Users\\SLOWY\\source\\repos\\TestTask_aton\\TestTask_aton\\appsettings.Development.json",
-              "RelativeToolTip": "TestTask_aton\\appsettings.Development.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-22T15:20:37.217Z",
+              "DocumentIndex": 2,
+              "Title": "UsersRequestCreate.cs",
+              "DocumentMoniker": "C:\\Users\\SLOWY\\source\\repos\\TestTask_aton\\TestTask_aton\\Contracts\\UsersRequestCreate.cs",
+              "RelativeDocumentMoniker": "TestTask_aton\\Contracts\\UsersRequestCreate.cs",
+              "ToolTip": "C:\\Users\\SLOWY\\source\\repos\\TestTask_aton\\TestTask_aton\\Contracts\\UsersRequestCreate.cs",
+              "RelativeToolTip": "TestTask_aton\\Contracts\\UsersRequestCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T12:41:30.596Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "docker-compose.yml",
-              "DocumentMoniker": "C:\\Users\\SLOWY\\source\\repos\\TestTask_aton\\TestTask_aton\\docker-compose.yml",
-              "RelativeDocumentMoniker": "TestTask_aton\\docker-compose.yml",
-              "ToolTip": "C:\\Users\\SLOWY\\source\\repos\\TestTask_aton\\TestTask_aton\\docker-compose.yml",
-              "RelativeToolTip": "TestTask_aton\\docker-compose.yml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
-              "WhenOpened": "2025-05-22T15:17:32.997Z"
+              "Title": "UsersRequestUpdate.cs",
+              "DocumentMoniker": "C:\\Users\\SLOWY\\source\\repos\\TestTask_aton\\TestTask_aton\\Contracts\\UsersRequestUpdate.cs",
+              "RelativeDocumentMoniker": "TestTask_aton\\Contracts\\UsersRequestUpdate.cs",
+              "ToolTip": "C:\\Users\\SLOWY\\source\\repos\\TestTask_aton\\TestTask_aton\\Contracts\\UsersRequestUpdate.cs",
+              "RelativeToolTip": "TestTask_aton\\Contracts\\UsersRequestUpdate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-01T12:42:31.408Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "UsersController.cs",
               "DocumentMoniker": "C:\\Users\\SLOWY\\source\\repos\\TestTask_aton\\TestTask_aton\\Controllers\\UsersController.cs",
               "RelativeDocumentMoniker": "TestTask_aton\\Controllers\\UsersController.cs",
               "ToolTip": "C:\\Users\\SLOWY\\source\\repos\\TestTask_aton\\TestTask_aton\\Controllers\\UsersController.cs",
               "RelativeToolTip": "TestTask_aton\\Controllers\\UsersController.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAYwCgAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAYwEoAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T15:09:48.64Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "UsersResponse.cs",
-              "DocumentMoniker": "C:\\Users\\SLOWY\\source\\repos\\TestTask_aton\\TestTask_aton\\Contracts\\UsersResponse.cs",
-              "RelativeDocumentMoniker": "TestTask_aton\\Contracts\\UsersResponse.cs",
-              "ToolTip": "C:\\Users\\SLOWY\\source\\repos\\TestTask_aton\\TestTask_aton\\Contracts\\UsersResponse.cs",
-              "RelativeToolTip": "TestTask_aton\\Contracts\\UsersResponse.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAbAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T15:06:11.848Z"
+              "WhenOpened": "2025-05-22T15:09:48.64Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\SLOWY\\source\\repos\\TestTask_aton\\TestTask_aton\\Program.cs",
-              "RelativeDocumentMoniker": "TestTask_aton\\Program.cs",
-              "ToolTip": "C:\\Users\\SLOWY\\source\\repos\\TestTask_aton\\TestTask_aton\\Program.cs",
-              "RelativeToolTip": "TestTask_aton\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAArAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T13:47:35.145Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "UsersService.cs",
               "DocumentMoniker": "C:\\Users\\SLOWY\\source\\repos\\TestTask_aton\\TestTask_aton.Application\\Services\\UsersService.cs",
               "RelativeDocumentMoniker": "TestTask_aton.Application\\Services\\UsersService.cs",
               "ToolTip": "C:\\Users\\SLOWY\\source\\repos\\TestTask_aton\\TestTask_aton.Application\\Services\\UsersService.cs",
               "RelativeToolTip": "TestTask_aton.Application\\Services\\UsersService.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAgwBoAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAAgwB0AAAAXAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T13:38:09.968Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UsersRepository.cs",
-              "DocumentMoniker": "C:\\Users\\SLOWY\\source\\repos\\TestTask_aton\\TestTask_aton.DataAccess\\Repositories\\UsersRepository.cs",
-              "RelativeDocumentMoniker": "TestTask_aton.DataAccess\\Repositories\\UsersRepository.cs",
-              "ToolTip": "C:\\Users\\SLOWY\\source\\repos\\TestTask_aton\\TestTask_aton.DataAccess\\Repositories\\UsersRepository.cs",
-              "RelativeToolTip": "TestTask_aton.DataAccess\\Repositories\\UsersRepository.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBgAAAAUAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T11:57:02.553Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "IUsersRepository.cs",
-              "DocumentMoniker": "C:\\Users\\SLOWY\\source\\repos\\TestTask_aton\\TestTask_aton.Core\\Abstractions\\IUsersRepository.cs",
-              "RelativeDocumentMoniker": "TestTask_aton.Core\\Abstractions\\IUsersRepository.cs",
-              "ToolTip": "C:\\Users\\SLOWY\\source\\repos\\TestTask_aton\\TestTask_aton.Core\\Abstractions\\IUsersRepository.cs",
-              "RelativeToolTip": "TestTask_aton.Core\\Abstractions\\IUsersRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T13:33:15.416Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "UserConfiguration.cs",
-              "DocumentMoniker": "C:\\Users\\SLOWY\\source\\repos\\TestTask_aton\\TestTask_aton.DataAccess\\Configurations\\UserConfiguration.cs",
-              "RelativeDocumentMoniker": "TestTask_aton.DataAccess\\Configurations\\UserConfiguration.cs",
-              "ToolTip": "C:\\Users\\SLOWY\\source\\repos\\TestTask_aton\\TestTask_aton.DataAccess\\Configurations\\UserConfiguration.cs",
-              "RelativeToolTip": "TestTask_aton.DataAccess\\Configurations\\UserConfiguration.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T10:59:30.06Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "UserEntity.cs",
-              "DocumentMoniker": "C:\\Users\\SLOWY\\source\\repos\\TestTask_aton\\TestTask_aton.DataAccess\\Entities\\UserEntity.cs",
-              "RelativeDocumentMoniker": "TestTask_aton.DataAccess\\Entities\\UserEntity.cs",
-              "ToolTip": "C:\\Users\\SLOWY\\source\\repos\\TestTask_aton\\TestTask_aton.DataAccess\\Entities\\UserEntity.cs",
-              "RelativeToolTip": "TestTask_aton.DataAccess\\Entities\\UserEntity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T10:56:59.598Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "UsersDBContext.cs",
-              "DocumentMoniker": "C:\\Users\\SLOWY\\source\\repos\\TestTask_aton\\TestTask_aton.DataAccess\\UsersDBContext.cs",
-              "RelativeDocumentMoniker": "TestTask_aton.DataAccess\\UsersDBContext.cs",
-              "ToolTip": "C:\\Users\\SLOWY\\source\\repos\\TestTask_aton\\TestTask_aton.DataAccess\\UsersDBContext.cs",
-              "RelativeToolTip": "TestTask_aton.DataAccess\\UsersDBContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA0AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T10:55:19.912Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\SLOWY\\source\\repos\\TestTask_aton\\TestTask_aton.Core\\Models\\User.cs",
-              "RelativeDocumentMoniker": "TestTask_aton.Core\\Models\\User.cs",
-              "ToolTip": "C:\\Users\\SLOWY\\source\\repos\\TestTask_aton\\TestTask_aton.Core\\Models\\User.cs",
-              "RelativeToolTip": "TestTask_aton.Core\\Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-22T10:38:09.224Z"
+              "WhenOpened": "2025-05-22T13:38:09.968Z",
+              "EditorCaption": ""
             }
           ]
         }
