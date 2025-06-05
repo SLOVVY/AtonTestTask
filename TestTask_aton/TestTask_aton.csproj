@@ -27,6 +27,7 @@
     <ProjectReference Include="..\TestTask_aton.Application\TestTask_aton.Application.csproj" />
     <ProjectReference Include="..\TestTask_aton.Core\TestTask_aton.Core.csproj" />
     <ProjectReference Include="..\TestTask_aton.DataAccess\TestTask_aton.DataAccess.csproj" />
+    <ProjectReference Include="..\TestTask_aton.Infrastructure\TestTask_aton.Infrastructure.csproj" />
   </ItemGroup>
 
 </Project>

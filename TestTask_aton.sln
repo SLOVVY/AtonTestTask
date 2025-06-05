@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.13.35919.96 d17.13
+VisualStudioVersion = 17.13.35919.96
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestTask_aton", "TestTask_aton\TestTask_aton.csproj", "{CFF64FDE-0945-4A44-8316-78DC10F95BE0}"
 EndProject
@@ -10,6 +10,8 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestTask_aton.DataAccess", "TestTask_aton.DataAccess\TestTask_aton.DataAccess.csproj", "{88333919-3F80-4BFB-B834-68A5255039F6}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestTask_aton.Application", "TestTask_aton.Application\TestTask_aton.Application.csproj", "{7F2D8114-FE64-4B4A-9133-56818C21BC4F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestTask_aton.Infrastructure", "TestTask_aton.Infrastructure\TestTask_aton.Infrastructure.csproj", "{5EFA9346-AC12-4838-B4EA-A0BE0B220AF0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -33,6 +35,10 @@ Global
 		{7F2D8114-FE64-4B4A-9133-56818C21BC4F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7F2D8114-FE64-4B4A-9133-56818C21BC4F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7F2D8114-FE64-4B4A-9133-56818C21BC4F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5EFA9346-AC12-4838-B4EA-A0BE0B220AF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5EFA9346-AC12-4838-B4EA-A0BE0B220AF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5EFA9346-AC12-4838-B4EA-A0BE0B220AF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5EFA9346-AC12-4838-B4EA-A0BE0B220AF0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

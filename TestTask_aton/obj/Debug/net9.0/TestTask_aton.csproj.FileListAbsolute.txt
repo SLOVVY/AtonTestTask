@@ -140,3 +140,13 @@ C:\Users\SLOWY\source\repos\TestTask_aton\TestTask_aton\bin\Debug\net9.0\TestTas
 C:\Users\SLOWY\source\repos\TestTask_aton\TestTask_aton\bin\Debug\net9.0\TestTask_aton.DataAccess.pdb
 C:\Users\SLOWY\source\repos\TestTask_aton\TestTask_aton\obj\Debug\net9.0\TestTask_aton.sourcelink.json
 C:\Users\SLOWY\source\repos\TestTask_aton\TestTask_aton\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\SLOWY\source\repos\TestTask_aton\TestTask_aton\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\SLOWY\source\repos\TestTask_aton\TestTask_aton\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\SLOWY\source\repos\TestTask_aton\TestTask_aton\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\SLOWY\source\repos\TestTask_aton\TestTask_aton\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\SLOWY\source\repos\TestTask_aton\TestTask_aton\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\SLOWY\source\repos\TestTask_aton\TestTask_aton\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\SLOWY\source\repos\TestTask_aton\TestTask_aton\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\SLOWY\source\repos\TestTask_aton\TestTask_aton\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\SLOWY\source\repos\TestTask_aton\TestTask_aton\bin\Debug\net9.0\TestTask_aton.Infrastructure.dll
+C:\Users\SLOWY\source\repos\TestTask_aton\TestTask_aton\bin\Debug\net9.0\TestTask_aton.Infrastructure.pdb

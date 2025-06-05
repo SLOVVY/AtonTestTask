@@ -1,0 +1,16 @@
+C:\Users\SLOWY\source\repos\TestTask_aton\TestTask_aton.Infrastructure\bin\Debug\net9.0\TestTask_aton.Infrastructure.deps.json
+C:\Users\SLOWY\source\repos\TestTask_aton\TestTask_aton.Infrastructure\bin\Debug\net9.0\TestTask_aton.Infrastructure.dll
+C:\Users\SLOWY\source\repos\TestTask_aton\TestTask_aton.Infrastructure\bin\Debug\net9.0\TestTask_aton.Infrastructure.pdb
+C:\Users\SLOWY\source\repos\TestTask_aton\TestTask_aton.Infrastructure\bin\Debug\net9.0\TestTask_aton.Core.dll
+C:\Users\SLOWY\source\repos\TestTask_aton\TestTask_aton.Infrastructure\bin\Debug\net9.0\TestTask_aton.Core.pdb
+C:\Users\SLOWY\source\repos\TestTask_aton\TestTask_aton.Infrastructure\obj\Debug\net9.0\TestTask_aton.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\SLOWY\source\repos\TestTask_aton\TestTask_aton.Infrastructure\obj\Debug\net9.0\TestTask_aton.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SLOWY\source\repos\TestTask_aton\TestTask_aton.Infrastructure\obj\Debug\net9.0\TestTask_aton.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\SLOWY\source\repos\TestTask_aton\TestTask_aton.Infrastructure\obj\Debug\net9.0\TestTask_aton.Infrastructure.AssemblyInfo.cs
+C:\Users\SLOWY\source\repos\TestTask_aton\TestTask_aton.Infrastructure\obj\Debug\net9.0\TestTask_aton.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\SLOWY\source\repos\TestTask_aton\TestTask_aton.Infrastructure\obj\Debug\net9.0\TestTask_aton.Infrastructure.sourcelink.json
+C:\Users\SLOWY\source\repos\TestTask_aton\TestTask_aton.Infrastructure\obj\Debug\net9.0\TestTask.07BB7548.Up2Date
+C:\Users\SLOWY\source\repos\TestTask_aton\TestTask_aton.Infrastructure\obj\Debug\net9.0\TestTask_aton.Infrastructure.dll
+C:\Users\SLOWY\source\repos\TestTask_aton\TestTask_aton.Infrastructure\obj\Debug\net9.0\refint\TestTask_aton.Infrastructure.dll
+C:\Users\SLOWY\source\repos\TestTask_aton\TestTask_aton.Infrastructure\obj\Debug\net9.0\TestTask_aton.Infrastructure.pdb
+C:\Users\SLOWY\source\repos\TestTask_aton\TestTask_aton.Infrastructure\obj\Debug\net9.0\ref\TestTask_aton.Infrastructure.dll

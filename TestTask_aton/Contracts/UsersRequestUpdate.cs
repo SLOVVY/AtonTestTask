@@ -4,8 +4,8 @@
     (
         string Login,
         string Password,
-        string Name,
-        int Gender,
-        DateTime? BirthDay
+        string Name = "",
+        int Gender = -1,
+        DateTime? BirthDay = null
     );
 }

@@ -1,8 +1,34 @@
 [
   {
     "ContainingType": "TestTask_aton.Controllers.UsersController",
+    "Method": "CreateUser",
+    "RelativePath": "Users/create",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "TestTask_aton.Contracts.UsersRequestCreate",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Guid",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "TestTask_aton.Controllers.UsersController",
     "Method": "GetUsers",
-    "RelativePath": "Users",
+    "RelativePath": "Users/getallusers",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -21,21 +47,21 @@
   },
   {
     "ContainingType": "TestTask_aton.Controllers.UsersController",
-    "Method": "CreateUser",
-    "RelativePath": "Users",
-    "HttpMethod": "POST",
+    "Method": "GetAllUsersOlderThan",
+    "RelativePath": "Users/getallusersolderthan",
+    "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
     "Parameters": [
       {
-        "Name": "request",
-        "Type": "TestTask_aton.Contracts.UsersRequest",
-        "IsRequired": true
+        "Name": "age",
+        "Type": "System.Int32",
+        "IsRequired": false
       }
     ],
     "ReturnTypes": [
       {
-        "Type": "System.Guid",
+        "Type": "System.Collections.Generic.List\u00601[[TestTask_aton.Contracts.UsersResponse, TestTask_aton, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -47,26 +73,52 @@
   },
   {
     "ContainingType": "TestTask_aton.Controllers.UsersController",
-    "Method": "Update1",
-    "RelativePath": "Users/{id}",
-    "HttpMethod": "PUT",
+    "Method": "GetUserByLogin",
+    "RelativePath": "Users/getuserbylogin",
+    "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
     "Parameters": [
       {
-        "Name": "id",
-        "Type": "System.Guid",
-        "IsRequired": true
-      },
-      {
-        "Name": "request",
-        "Type": "TestTask_aton.Contracts.UsersRequest",
-        "IsRequired": true
+        "Name": "login",
+        "Type": "System.String",
+        "IsRequired": false
       }
     ],
     "ReturnTypes": [
       {
-        "Type": "System.Guid",
+        "Type": "System.Collections.Generic.List\u00601[[TestTask_aton.Contracts.GetByLoginResponse, TestTask_aton, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "TestTask_aton.Controllers.UsersController",
+    "Method": "GetYourself",
+    "RelativePath": "Users/getyourself",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "login",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "password",
+        "Type": "System.String",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[TestTask_aton.Contracts.UsersResponse, TestTask_aton, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -79,7 +131,7 @@
   {
     "ContainingType": "TestTask_aton.Controllers.UsersController",
     "Method": "HardDelete",
-    "RelativePath": "Users/{id}",
+    "RelativePath": "Users/harddelete",
     "HttpMethod": "DELETE",
     "IsController": true,
     "Order": 0,
@@ -87,6 +139,245 @@
       {
         "Name": "id",
         "Type": "System.Guid",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Guid",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "TestTask_aton.Controllers.UsersController",
+    "Method": "Login",
+    "RelativePath": "Users/login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "TestTask_aton.Contracts.UsersRequestLogin",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "TestTask_aton.Controllers.UsersController",
+    "Method": "SoftDelete",
+    "RelativePath": "Users/softdelete",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Guid",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "TestTask_aton.Controllers.UsersController",
+    "Method": "Update2",
+    "RelativePath": "Users/update2",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": false
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Guid",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "TestTask_aton.Controllers.UsersController",
+    "Method": "UpdateUser",
+    "RelativePath": "Users/updateuser",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": false
+      },
+      {
+        "Name": "request",
+        "Type": "TestTask_aton.Contracts.UsersRequestUpdate",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Guid",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "TestTask_aton.Controllers.UsersController",
+    "Method": "UpdateUserLogin",
+    "RelativePath": "Users/updateuserslogin",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": false
+      },
+      {
+        "Name": "request",
+        "Type": "TestTask_aton.Contracts.UsersRequestUpdateLogin",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Guid",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "TestTask_aton.Controllers.UsersController",
+    "Method": "UpdateUserPassword",
+    "RelativePath": "Users/updateuserspassword",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Guid",
+        "IsRequired": false
+      },
+      {
+        "Name": "request",
+        "Type": "TestTask_aton.Contracts.UsersRequestUpdatePassword",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Guid",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "TestTask_aton.Controllers.UsersController",
+    "Method": "UpdateUserYourself",
+    "RelativePath": "Users/updateuseryourself",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "TestTask_aton.Contracts.UsersRequestUpdate",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Guid",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "TestTask_aton.Controllers.UsersController",
+    "Method": "UpdateYorselfsUsersLogin",
+    "RelativePath": "Users/updateyourselfsuserslogin",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "TestTask_aton.Contracts.UsersRequestUpdateLogin",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.Guid",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "TestTask_aton.Controllers.UsersController",
+    "Method": "UpdateYorselfsUserPassword",
+    "RelativePath": "Users/updateyourselfsuserspassword",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "TestTask_aton.Contracts.UsersRequestUpdatePassword",
         "IsRequired": true
       }
     ],
